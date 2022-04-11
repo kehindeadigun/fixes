@@ -9,3 +9,7 @@ This is the fourth commit.
 This is the fixed commit.
 
 This is another fixed commit.
+
+This is the last pseudo to fixed commit.
+
+Some edited text that is staged.
