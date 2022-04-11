@@ -13,3 +13,5 @@ This is another fixed commit.
 This is the last pseudo to fixed commit.
 
 Some edited text that is staged.
+
+This is the true state of the world.
